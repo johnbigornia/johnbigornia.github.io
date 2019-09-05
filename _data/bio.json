@@ -29,23 +29,15 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Raspberry Pi",
-        "Fishing",
-        "Video Games"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
-    }
+    },
   ],
   "skills": [
     {

@@ -24,6 +24,10 @@
         "network": "linkedin",
         "username": "John bigonria",
         "url": "https://www.linkedin.com/in/john-bigornia-9a15b6159/"
+      },
+      {
+        "network": "Email",
+        "username": "jbigornia15@gmail.com"
       }
     ]
   },
@@ -38,6 +42,11 @@
       "keywords": [
       ]
     },
+    {
+      "name": "Building Computers"
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {

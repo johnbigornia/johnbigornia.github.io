@@ -1,15 +1,14 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/marching_band.png
+title: Marching Band
+permalink: projects/marching_band
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2013-10-31
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Music
+summary: Performed a Pirates of Carribean Medly.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">

@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/computerbuild.jpg
+title: computerbuild
+permalink: projects/computerbuild
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-14
 labels:

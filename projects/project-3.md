@@ -6,7 +6,6 @@ title: SaveMe
 permalink: projects/androidApp
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-04
-projecturl: https://www.youtube.com/watch?v=jK1JsjHej5M
 summary: Started an adroid app that is designed to help save money. The target consumer is students. 
 --- 
 

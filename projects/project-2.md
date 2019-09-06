@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/marching_band.jpg
+image: images/marching_band.png
 title: Marching Band Homecoming
 permalink: projects/marchingband
 # All dates must be YYYY-MM-DD format!

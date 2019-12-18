@@ -7,5 +7,5 @@ permalink: projects/marchingband
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-17
 projecturl: https://ics314bois.github.io/clubs-of-manoa.github.io/
-summary: Months prepared for a 3 part Pirates of the Caribbean Medley
+summary: Clubs of Manoa is an easy way to traverse through the many clubs that is available in UHM. It provides an easy and seamless way to search for a desired clubs. Functionality will be improved over time, however the main basis of this project is there. 
 --- 

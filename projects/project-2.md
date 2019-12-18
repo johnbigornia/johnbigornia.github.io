@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/web1_20171228_brk_uhm01.jpg
+image: images/5ed557ca210f257edd33bfb4580289cf.jpg
 title: Clubs Of Manoa
 permalink: projects/marchingband
 # All dates must be YYYY-MM-DD format!

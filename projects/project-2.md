@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/marching_band.png
-title: Marching Band Homecoming
+title: Clubs Of Manoa
 permalink: projects/marchingband
 # All dates must be YYYY-MM-DD format!
-date: 2012-10-14
-projecturl: https://www.youtube.com/watch?v=jK1JsjHej5M
+date: 2019-12-17
+projecturl: https://ics314bois.github.io/clubs-of-manoa.github.io/
 summary: Months prepared for a 3 part Pirates of the Caribbean Medley
 --- 

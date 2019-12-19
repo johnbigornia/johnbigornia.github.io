@@ -7,5 +7,5 @@ permalink: projects/uhgroupings
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
 projecturl: https://github.com/uhawaii-system-its-ti-iam
-summary: Started a job that works with a student base project called UH Groupings. More in the link above! 
+summary: Started a job that works with a student base project called UH Groupings. Click on read more for more information! 
 --- 

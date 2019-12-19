@@ -16,7 +16,7 @@ I will not include all parts for this build explination but only will explain a 
 
 ### CPU
 <img class="ui tiny left circular floated image" src="../images/pc1.jpg">
-For the CPU I chose Intel Core i7-8700 3.2 GHz 6-Core Processor. With each core being clocked at 3.2 ghz it is fast. The spread load on each core will have render speeds above average. It's not the best, however it is worth it's value. 
+For the CPU I chose Intel Core i7-8700 3.2 GHz 6-Core Processor. With each core being clocked at 3.2 ghz it is fast. The spread load on each core will have render speeds above average. It's not the best, however it is worth it's value.
 
 ### Motherboard
 <img class="ui tiny left circular floated image" src="../images/pc2.jpg">

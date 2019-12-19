@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "Game Designing",
+      "name": "Machine Learing",
       "keywords": [
       ]
     },
@@ -59,6 +59,7 @@
       "keywords": [
         "MacOS",
         "Windows 10"
+        "Linux/Ubuntu"
       ]
     }
   ],
@@ -79,11 +80,21 @@
       "company": "UH Manoa CSSCS",
       "position": "Computer Support",
       "website": "",
-      "startDate": "March 12, 2018",
+      "startDate": "Febuary, 2018",
+      "endDate": "November, 2019",
+      "summary": "Communicate and execute specific job descriptions related to computer problems, printing and programs.",
+      "highlights": ""
+    },
+    {
+      "company": "UH Manoa ITS",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "November, 2019",
       "endDate": "Present",
       "summary": "Communicate and execute specific job descriptions related to computer problems, printing and programs.",
       "highlights": ""
     }
+    
   ],
   "references": [
     {

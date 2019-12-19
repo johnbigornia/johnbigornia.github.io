@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uh-groupings-logo-large.png
+image: images/5164992-red-snapper-reef-fish-nautical-grouper-ocean-red-fish-by-jenlats.jpg
 title: SaveMe
 permalink: projects/uhgroupings
 # All dates must be YYYY-MM-DD format!

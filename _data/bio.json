@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "John bigonria",
-        "url": "https://www.linkedin.com/in/john-bigornia-9a15b6159/"
+        "url": "https://www.linkedin.com/in/johnbigo/"
       }
     ]
   },
@@ -48,9 +48,12 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "MongoDB",
+        "React",
+        "Meteor",
+        "Maven"
       ]
     },
     {
@@ -82,7 +85,7 @@
       "website": "",
       "startDate": "Febuary, 2018",
       "endDate": "November, 2019",
-      "summary": "Communicate and execute specific job descriptions related to computer problems, printing and programs.",
+      "summary": "CFull stack development of the UH-Grouper project using Maven as a project management tool",
       "highlights": ""
     },
     {
@@ -91,7 +94,7 @@
       "website": "",
       "startDate": "November, 2019",
       "endDate": "Present",
-      "summary": "Communicate and execute specific job descriptions related to computer problems, printing and programs.",
+      "summary": "",
       "highlights": ""
     }
     
